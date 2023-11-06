@@ -52,7 +52,7 @@ To interact with the live demo of this project, visit [Live Demo Link]().
 
 ## Submission
 
-You can access the project's source code on [GitHub]().
+You can access the project's source code on [GitHub](https://github.com/ipptykhan1/Image-Gallery-project).
 
 ## Local Run This Application
 
