@@ -39,7 +39,7 @@ The objective of this project was to create a responsive image gallery with adva
    - Implemented transitions and animations for a polished look and feel.
 
 6. **Live Demo:**
-   - [Live Demo Link]()
+   - [Live Demo Link](https://654886f4dfa6fd62fc614427--spontaneous-gelato-a1a425.netlify.app/)
 
 ## Uses Package
 
@@ -48,7 +48,7 @@ The objective of this project was to create a responsive image gallery with adva
 
 ## Demo
 
-To interact with the live demo of this project, visit [Live Demo Link]().
+To interact with the live demo of this project, visit [Live Demo Link](https://654886f4dfa6fd62fc614427--spontaneous-gelato-a1a425.netlify.app/).
 
 ## Submission
 
